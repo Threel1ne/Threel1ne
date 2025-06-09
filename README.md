@@ -1,13 +1,15 @@
-# Hi there, I'm Tharathep Luangsilp (Non) 👋
+# Hi there, I'm Tharathep Luangsilp (Non) 👋🤖
 
-Welcome to my GitHub profile! I'm a passionate developer who loves creating solutions through code.
+Welcome to my GitHub profile! I'm a passionate robotics engineer and developer who loves creating intelligent solutions through code and robotics.
 
 ## 🚀 About Me
 
 - 💻 **Name**: Tharathep Luangsilp
 - 🎯 **Nickname**: Non
+- 🤖 **Profession**: Robotics Engineer
 - 🌱 Currently exploring new technologies and improving my coding skills
 - 💡 Always eager to learn and take on new challenges
+- 🔧 Passionate about building intelligent robotic systems
 
 ## 🛠️ Tech Stack
 
@@ -27,17 +29,20 @@ Here are the programming languages and technologies I work with:
 
 ## 🌟 What I'm Working On
 
+- 🤖 Designing and programming autonomous robots
+- 🔧 Developing robotic control systems and algorithms
 - Building projects that combine my knowledge of different programming languages
 - Exploring web development with HTML, CSS, and PHP
 - Developing efficient algorithms and data structures in C++
-- Creating useful tools and scripts in Python
+- Creating useful tools and scripts in Python for robotics applications
 
 ## 🎯 Goals
 
-- 📈 Contribute to open-source projects
+- 🤖 Develop innovative robotic solutions for real-world problems
+- 📈 Contribute to open-source robotics projects
 - 🎓 Continuously learn new programming languages and frameworks
-- 🤝 Collaborate with other developers on interesting projects
-- 💼 Build a strong portfolio of meaningful projects
+- 🤝 Collaborate with other developers and engineers on interesting projects
+- 💼 Build a strong portfolio of meaningful robotics and programming projects
 
 ## 📫 Let's Connect!
 
