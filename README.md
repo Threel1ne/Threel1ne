@@ -46,7 +46,9 @@ Here are the programming languages and technologies I work with:
 
 ## 📫 Let's Connect!
 
-Feel free to reach out if you want to collaborate on projects or just chat about programming!
+Feel free to reach out if you want to collaborate on projects or just chat about programming and robotics!
+
+🌐 **Website**: [threelines.online](https://threelines.online)
 
 ---
 
